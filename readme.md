@@ -1,5 +1,7 @@
 # RTColorPicker
 
+![GitHubHeader](https://github.com/user-attachments/assets/ee79671b-2c7f-44a0-a54d-c083cada5068)
+
 ## Overview
 RTColorPicker is a runtime full featured color picker for the Unity3D Game Engine. It is designed to fit nicely with new and existing game/application projects. Whether you are making a level editor or need color selection for character customization, RTColorPicker can be a good fit for your project.
 
@@ -33,6 +35,7 @@ Drag and drop the RTColorPickerCS_Prefab object under the RTColorPicker folder t
 The prefab contains a GameObject with the RTColorPicker script attached and setup.
 
 Clicking the prefab in the scene you’ll notice there are a lot of inspector options. We’ll cover these below.
+
 
 
 ## Using the RTColorPicker
